@@ -1,0 +1,25 @@
+{
+  "clientes": [
+    {
+      "nombre": "Jose Luis",
+      "email": "jose@mail.com",
+      "telefono": "645367098",
+      "empresa": "Zara",
+      "id": "2995"
+    },
+    {
+      "id": "8a30",
+      "nombre": "Marta",
+      "email": "marta@mail.com",
+      "telefono": "628445419",
+      "empresa": "Randstad"
+    },
+    {
+      "id": "a62a",
+      "nombre": "Juan",
+      "email": "juan@mail.com",
+      "telefono": "658798234",
+      "empresa": "Toca con Juan"
+    }
+  ]
+}
